@@ -3,11 +3,13 @@
 This is my demo version of _Color Switch_, a unity game 2d for android
 
 
-# Pré requisitos
+# System Requirements
 
 * Unity 3D 2019
 * Android Build Support on Unity Hub
 
+
+# Images
 
 ![android game title](https://user-images.githubusercontent.com/57958790/69499672-57136a80-0ed3-11ea-9c13-5d5d93366ae3.jpg)
 ![android game level](https://user-images.githubusercontent.com/57958790/69499974-03eee700-0ed6-11ea-8130-c6f4840feea4.jpg)
