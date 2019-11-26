@@ -1,6 +1,6 @@
 # Unity-Android-Game-2d
 
-This is my demo version of _Color Switch_, a unity game 2d for android
+This is my demo version of _Color Switch_, a unity game 2d for android make with Canvas UI Elements
 
 
 # System Requirements
